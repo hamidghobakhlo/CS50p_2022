@@ -13,25 +13,25 @@ This repository is intended just to share my own solution to the problem sets. R
 * [Problem Set 0](/PSET0)
 
 #### - [Week 1: Conditionals](https://cs50.harvard.edu/python/2022/psets/1/)
-* [Problem Set 1](/pset1)
+* [Problem Set 1](/PSET1)
 
 #### - [Week 2: Loops](https://cs50.harvard.edu/python/2022/psets/2/)
-* [Problem Set 2](/pset2)
+* [Problem Set 2](/PSET2)
 
 #### - [Week 3: Exceptions](https://cs50.harvard.edu/python/2022/psets/3/)
-* [Problem Set 3](/pset3)
+* [Problem Set 3](/PSET3)
 
 #### - [Week 4: Libraries](https://cs50.harvard.edu/python/2022/psets/4/)
-* [Problem Set 4](/pset4)
+* [Problem Set 4](/PSET4)
 
 #### - [Week 5: Unit Test](https://cs50.harvard.edu/python/2022/psets/5/)
-* [Problem Set 5](/pset5)
+* [Problem Set 5](/PSET5)
 
 #### - [Week 6: File I/O](https://cs50.harvard.edu/python/2022/psets/6/)
-* [Problem Set 6](/pset6)
+* [Problem Set 6](/PSET6)
 
 #### - [Week 7: Regular Expressions](https://cs50.harvard.edu/python/2022/psets/7/)
-* [Problem Set 7](/pset7)
+* [Problem Set 7](/PSET7)
 
 #### - [Week 8: Object-Oriented Programming](https://cs50.harvard.edu/python/2022/psets/8/)
-* [Problem Set 8](/pset8)
+* [Problem Set 8](/PSET8)
